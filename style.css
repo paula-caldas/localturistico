@@ -59,6 +59,44 @@ h3 {
   font-weight: 700;
 }
 
+.bompara {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+ul {
+  padding-left: 28px;
+}
+
+li::marker {
+  color: black;
+}
+
+#haedong li {
+  font-weight: 700;
+  color: #0C51A7;
+}
+
+#beomeo li {
+  font-weight: 700;
+  color: #0C51A7;
+}
+
+#casais {
+  font-weight: 700;
+  color: #591B98;
+}
+
+#familias {
+  font-weight: 700;
+  color: #E5245E;
+}
+
+#orcamento {
+  font-weight: 700;
+  color: #E95E10;
+}
+
 footer {
   text-align: center;
 }
